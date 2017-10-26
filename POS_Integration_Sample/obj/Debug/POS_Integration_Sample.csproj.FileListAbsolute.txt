@@ -1,0 +1,8 @@
+C:\Users\Frank\source\repos\POS_Integration_Sample\POS_Integration_Sample\bin\Debug\POS_Integration_Sample.exe.config
+C:\Users\Frank\source\repos\POS_Integration_Sample\POS_Integration_Sample\bin\Debug\POS_Integration_Sample.exe
+C:\Users\Frank\source\repos\POS_Integration_Sample\POS_Integration_Sample\bin\Debug\POS_Integration_Sample.pdb
+C:\Users\Frank\source\repos\POS_Integration_Sample\POS_Integration_Sample\obj\Debug\POS_Integration_Sample.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\POS_Integration_Sample\POS_Integration_Sample\obj\Debug\POS_Integration_Sample.exe
+C:\Users\Frank\source\repos\POS_Integration_Sample\POS_Integration_Sample\obj\Debug\POS_Integration_Sample.pdb
+C:\Users\Frank\source\repos\POS_Integration_Sample\POS_Integration_Sample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\source\repos\POS_Integration_Sample\POS_Integration_Sample\bin\Debug\Newtonsoft.Json.xml
